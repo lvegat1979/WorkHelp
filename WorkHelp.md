@@ -76,7 +76,6 @@ Please run the following commands in any console. In case that you want to run l
  - cmd -> cd .
  - cmd -> .\deploy.bat 
 
-**
 
 ## Introduction Files Server Side
 
