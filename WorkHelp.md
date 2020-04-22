@@ -1,43 +1,47 @@
----
+# Web Map 5
 
+This a little documentation and guide to find information related to webmap 5
 
----
+Download the follow repositories:
 
-<h1 id="web-map-5">Web Map 5</h1>
-<p>This a little documentation and guide to find information related to webmap 5</p>
-<p>Download the follow repositories:</p>
-<ul>
-<li>
-<p><a href="https://collaboration.artinsoft.com/tfs/Product/Product/_git/WFNetDCP">WFNetDCP</a></p>
-</li>
-<li>
-<p><a href="https://collaboration.artinsoft.com/tfs/Product/Product/_git/WFNetJanus">WFNetJanus</a></p>
-</li>
-<li>
-<p><a href="https://collaboration.artinsoft.com/tfs/Product/Product/_git/WFNetConversionTool">WFNetConversionTool</a></p>
-</li>
-</ul>
-<p><strong>WFNet DCP Configuration</strong></p>
-<p>Please run the follow command in any console for configuration.</p>
-<blockquote>
-<p>In case that you have some problems, please do a git clean up, please check that you are connected to the vpn, becasuse many of packages come from mobilize nutget repositories.</p>
-</blockquote>
-<ul>
-<li>cmd -&gt; .\build init</li>
-<li>cmd -&gt; .\RestorePackages.cmd</li>
-<li>cmd -&gt; .\build</li>
-</ul>
-<p><strong>WFNetConversionTool Configuration</strong><br>
-Please run the following commands in any console. In case that you want to run locally the migration tool.</p>
-<ul>
-<li>cmd -&gt; .\build.cmd init</li>
-<li>cmd -&gt; .\RestorePackages.cmd</li>
-<li>cmd -&gt; .\build.cmd</li>
-<li>cmd -&gt; .\deploy.bat</li>
-</ul>
-<p>**</p>
-<h2 id="introduction-files-server-side">Introduction Files Server Side</h2>
-<p>**</p>
-<p><a href="https://1drv.ms/v/s!AjbyneS6s2dlgaV_l8gG1n0tOw8Lzg?e=Sy8PXY">Backend Part 1</a> This video talk about WebMap 5 and some generals things.</p>
-<p><a href="https://1drv.ms/v/s!AjbyneS6s2dlgaYAGq77sq5dbRLdNg?e=cJHVf1">Backend Part 2</a> In this video, we are talking about DTO, Data Transfer Object, also Models and Mapers the mains important objects in the server side.</p>
+ - [WFNetDCP](https://collaboration.artinsoft.com/tfs/Product/Product/_git/WFNetDCP)
+   
+ - [WFNetJanus](https://collaboration.artinsoft.com/tfs/Product/Product/_git/WFNetJanus)
+  
+ - [WFNetConversionTool](https://collaboration.artinsoft.com/tfs/Product/Product/_git/WFNetConversionTool)
 
+**WFNet DCP Configuration** 
+
+Please run the follow command in any console for configuration.
+
+> In case that you have some problems, please do a git clean up, please check that you are connected to the vpn, becasuse many of packages come from mobilize nutget repositories.
+
+ - cmd -> .\build init 	
+ - cmd -> .\RestorePackages.cmd 	
+ - cmd -> .\build
+
+**WFNetConversionTool Configuration** 
+Please run the following commands in any console. In case that you want to run locally the migration tool.
+
+ - cmd -> .\build.cmd init 	
+ - cmd -> .\RestorePackages.cmd 	
+ - cmd -> .\build.cmd
+ - cmd -> .\deploy.bat 
+
+**
+
+## Introduction Files Server Side
+
+[Backend Part 1](https://1drv.ms/v/s!AjbyneS6s2dlgaV_l8gG1n0tOw8Lzg?e=Sy8PXY) This video talk about WebMap 5 and some generals things.
+
+[Backend Part 2](https://1drv.ms/v/s!AjbyneS6s2dlgaYAGq77sq5dbRLdNg?e=cJHVf1) In this video, we are talking about DTO, Data Transfer Object, also Models and Mapers the mains important objects in the server side.
+
+[Frontend](https://github.com/lvegat1979/WorkHelp/blob/master/WorkHelp.md) This video talk about Frontend.
+
+## Checking Builds
+In order to check if the build was successfulll, please go here and  look up for you  build.
+
+[Builds](https://collaboration.artinsoft.com/tfs/Product/Product/_build?definitionId=1199)
+ 
+
+[WebMap Documentation](https://artinsoft.sharepoint.com/sites/LGC-Dev/Documentos%20compartidos/General/Phase%201%20-%20Compilation%20Delivery/LGC-NextGen-Accounting-Compilation-ReleaseNote-20200117.pdf?CT=1587158918683&OR=ItemsView)
