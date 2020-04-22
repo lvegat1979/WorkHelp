@@ -93,7 +93,12 @@ Please run the following commands in any console. In case that you want to run l
 ## Checking Builds
 In order to check if the build was successfulll, please go here and  look up for you  build.
 
-[Builds](https://collaboration.artinsoft.com/tfs/Product/Product/_build?definitionId=1199)
+[Builds](https://collaboration.artinsoft.com/tfs/Product/Product/_build?definitionId=1199) All builds of all components are created for alphas and stantards builds.
+
+> Note: If you need a alpha, your branch need to be created like with inside feature/**BranchName**. 
+
+![Feature](https://github.com/lvegat1979/WorkHelp/blob/master/Feature.PNG)
+
  
 ## References Documentation
 [WebMap Documentation](https://artinsoft.sharepoint.com/sites/LGC-Dev/Documentos%20compartidos/General/Phase%201%20-%20Compilation%20Delivery/LGC-NextGen-Accounting-Compilation-ReleaseNote-20200117.pdf?CT=1587158918683&OR=ItemsView) This is a documentation releated to the some tips, some commands, nutgets. Was created by Esteban.
