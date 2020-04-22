@@ -1,5 +1,5 @@
 
-# Web Map 5
+# Web Map 5 for Dummy's
 
 This a little documentation and guide to find information related to webmap 5
 
@@ -79,7 +79,7 @@ Please run the following commands in any console. In case that you want to run l
  - cmd -> cd .  "return folder"
  - cmd -> .\deploy.bat 
 
-> Note: In case of any problems with running **build.cmd init** build.core issue, please open the folder ***\\ais-build-w7\BuildScriptUpdate*** and save login the credentials, cause some people is not inside the **mobilize network** just connected with in the vpn, we need to store our credentials inside credetials manager.  Buiild core is store in this folder. Please run again the command.
+> Note: In case of any problems with running **build.cmd init** build.core issue, please open the folder ***\\ais-build-w7\BuildScriptUpdate*** and save login the credentials, cause some people is not inside the **mobilize network** just connected with the vpn, we need to store our credentials inside credetials manager.  Buiild core is store in this folder. Please run again the command.
 
 
 ## Introduction Videos Backend and  Frontend
@@ -95,5 +95,5 @@ In order to check if the build was successfulll, please go here and  look up for
 
 [Builds](https://collaboration.artinsoft.com/tfs/Product/Product/_build?definitionId=1199)
  
-
-[WebMap Documentation](https://artinsoft.sharepoint.com/sites/LGC-Dev/Documentos%20compartidos/General/Phase%201%20-%20Compilation%20Delivery/LGC-NextGen-Accounting-Compilation-ReleaseNote-20200117.pdf?CT=1587158918683&OR=ItemsView)
+## References Documentation
+[WebMap Documentation](https://artinsoft.sharepoint.com/sites/LGC-Dev/Documentos%20compartidos/General/Phase%201%20-%20Compilation%20Delivery/LGC-NextGen-Accounting-Compilation-ReleaseNote-20200117.pdf?CT=1587158918683&OR=ItemsView) This is a documentation releated to the some tips, some commands, nutgets. Was created by Esteban.
