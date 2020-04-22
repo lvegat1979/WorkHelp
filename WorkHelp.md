@@ -1,3 +1,4 @@
+
 # Web Map 5
 
 This a little documentation and guide to find information related to webmap 5
@@ -70,11 +71,15 @@ Please run the follow command in any console for configuration.
 **WFNetConversionTool Configuration** 
 Please run the following commands in any console. In case that you want to run locally the migration tool.
 
+    Please open Powershell as adminstrator
+
  - cmd -> .\build.cmd init 	
  - cmd -> .\RestorePackages.cmd 	
  - cmd -> .\build.cmd
- - cmd -> cd .
+ - cmd -> cd .  "return folder"
  - cmd -> .\deploy.bat 
+
+> Note: In case of any problems with running **build.cmd init** build.core issue, please open the folder ***\\ais-build-w7\BuildScriptUpdate*** and save login the credentials, cause some people is not inside the **mobilize network** just connected with in the vpn, we need to store our credentials inside credetials manager.  Buiild core is store in this folder. Please run again the command.
 
 
 ## Introduction Files Server Side
