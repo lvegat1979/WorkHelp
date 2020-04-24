@@ -40,6 +40,11 @@ Please run the following commands in any console. In case that you want to run l
 > Note: In case of any problems with running **build.cmd init** build.core issue, please open the folder ***\\ais-build-w7\BuildScriptUpdate*** and save login the credentials, cause some people is not inside the **mobilize network** just connected with the vpn, we need to store our credentials inside credetials manager.  Buiild core is store in this folder. Please run again the command.
 
 
+## Run Migration Tool
+
+	cmd=> CmdRunner\release\net461\wfnetct.exe -i  "..\UICheckBox\UICheckBox.sln" -o "..\Example\UICheckBoxOut3" -l "..\Example\InternalWebMap.lic" -c "..\LGC\Example\webmap.config"
+
+
 ## Introduction Videos Backend and  Frontend
 
 [Backend Part 1](https://1drv.ms/v/s!AjbyneS6s2dlgaV_l8gG1n0tOw8Lzg?e=Sy8PXY) This video talk about WebMap 5 and some generals things.
@@ -80,6 +85,12 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 
 	 - cmd -> rimraf.cmd .\node_modules\
 	 - cmd -> rimraf.cmd .\yarn.lock
+	 
+
+### How to packages a nutget in the client side.
+
+In order to test Janus component change you can to pack
+
 
 ### How to get a Model in running
 
