@@ -79,5 +79,10 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 
 ng.probe($0).componentInstance.model
 
+
+### Download buils from WebMap Conversion Tool
+**\\BUILDARTIFACTORY\WebMAPWinforms\Product\Mobilize.WFNetConversionTool**
+
+
 ## References Documentation
 [WebMap Documentation](https://artinsoft.sharepoint.com/sites/LGC-Dev/Documentos%20compartidos/General/Phase%201%20-%20Compilation%20Delivery/LGC-NextGen-Accounting-Compilation-ReleaseNote-20200117.pdf?CT=1587158918683&OR=ItemsView) This is a documentation releated to the some tips, some commands, nutgets. Was created by Esteban.
