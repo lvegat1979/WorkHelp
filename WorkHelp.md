@@ -71,7 +71,8 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 	 - cmd -> ng build
 	 - cmd -> ng serve -o
 
-	> Tip: There are a nice command to remove files easy and faster in order to delete node_modules and yarn lock is a rimraf. To install it please execute the next command npm rimraf install -g
+> Tip: There are a nice command to remove files easy and faster in order to delete node_modules and yarn lock is a rimraf. To install it please execute the next command npm rimraf install -g
+
 	 - cmd -> rimraf.cmd .\node_modules\
 	 - cmd -> rimraf.cmd .\yarn.lock
 
