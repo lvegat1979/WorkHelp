@@ -75,7 +75,7 @@ If you are on Janus Component. Please go to Angular Folder run the following com
  - cmd -> rimraf.cmd .\node_modules\
  - cmd -> rimraf.cmd .\yarn.lock
 
-**How to get a Model in running**
+###How to get a Model in running
 
 ng.probe($0).componentInstance.model
 
