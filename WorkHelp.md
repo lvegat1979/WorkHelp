@@ -23,7 +23,7 @@ Please run the follow command in any console for configuration.
 
 ## WFNetConversionTool Configuration
 
-### Download buils from WebMap Conversion Tool
+###Folder to download build of WebMap Conversion Tool
 
 	\\BUILDARTIFACTORY\WebMAPWinforms\Product\Mobilize.WFNetConversionTool
 	
