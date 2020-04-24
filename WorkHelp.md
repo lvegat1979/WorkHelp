@@ -23,7 +23,7 @@ Please run the follow command in any console for configuration.
 
 ## WFNetConversionTool Configuration
 
-###Folder to download build of WebMap Conversion Tool
+### Folder to download build of WebMap Conversion Tool
 
 	\\BUILDARTIFACTORY\WebMAPWinforms\Product\Mobilize.WFNetConversionTool
 	
@@ -43,6 +43,11 @@ Please run the following commands in any console. In case that you want to run l
 ## Running Migration Tool
 
 	cmd=> CmdRunner\release\net461\wfnetct.exe -i  "..\UICheckBox\UICheckBox.sln" -o "..\Example\UICheckBoxOut3" -l "..\Example\InternalWebMap.lic" -c "..\LGC\Example\webmap.config"
+	
+	-i = Solution to migrate
+	-o = Output folder
+	-l = License
+	-c = WebMap Config file
 
 
 ## Introduction Videos Backend and  Frontend
