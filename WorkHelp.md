@@ -69,7 +69,7 @@ Please run the following commands in any console. In case that you want to run l
 
 ## FrontEnd Tips.
 
-Global commands, yoy can run it in any folder (just one time)
+Global commands, you can run it in any folder (just one time, not anymore)
 
 - cmd -> npm install @angular/cli -g 
 - cmd -> npm install yarn  -g
@@ -128,5 +128,5 @@ After that please unzip and copy it in your migrated app nutget folder, then con
 ## References Documentation
 [WebMap Documentation](https://artinsoft.sharepoint.com/sites/LGC-Dev/Documentos%20compartidos/General/Phase%201%20-%20Compilation%20Delivery/LGC-NextGen-Accounting-Compilation-ReleaseNote-20200117.pdf?CT=1587158918683&OR=ItemsView) This is a documentation releated to the some tips, some commands, nutgets. Was created by Esteban.
 
-[Angular for heores](
+[Angular for heroes](
 https://angular.io/tutorial) This manual is basic information how angular works.
