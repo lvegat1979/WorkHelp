@@ -99,6 +99,32 @@ In order to check if the build was successfulll, please go here and  look up for
 
 ![Feature](https://github.com/lvegat1979/WorkHelp/blob/master/Feature.PNG)
 
- 
+## FrontEnd Tips.
+
+### Janus Component.
+
+If you are on Janus Component. Please go to Angular Folder run the following commands where the json file are.
+
+ - cmd -> .\yarn.cmd install
+ - cmd -> .\gulp
+
+> Note: In case that you need  install yarn please run.  npm yarn install -g.
+
+### Any Migrated App (FrontEnd)
+
+If you are on Janus Component. Please go to Angular Folder run the following commands where the json file are.
+
+ - cmd -> .\yarn.cmd install
+ - cmd -> ng build
+ - cmd -> ng serve -o
+
+> Tip: There are a nice command to remove files easy and faster in order to delete node_modules and yarn lock is a rimraf. To install it please execute the next command npm rimraf install -g
+ - cmd -> rimraf.cmd .\node_modules\
+ - cmd -> rimraf.cmd .\yarn.lock
+
+**How to get a Model in running**
+
+ng.probe($0).componentInstance.model
+
 ## References Documentation
 [WebMap Documentation](https://artinsoft.sharepoint.com/sites/LGC-Dev/Documentos%20compartidos/General/Phase%201%20-%20Compilation%20Delivery/LGC-NextGen-Accounting-Compilation-ReleaseNote-20200117.pdf?CT=1587158918683&OR=ItemsView) This is a documentation releated to the some tips, some commands, nutgets. Was created by Esteban.
