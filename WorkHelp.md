@@ -76,7 +76,7 @@ If you are on Janus Component. Please go to Angular Folder run the following com
  - cmd -> .\yarn.cmd install
  - cmd -> .\gulp
 
-> Note: In case that you need  install yarn please run.  npm yarn install -g.
+> Note: In case that you need  install yarn please run.  npm install yarn -g and  npm install gulp -g
 
 ### Any Migrated App (FrontEnd)
 
@@ -94,7 +94,20 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 
 ### How to packages a nutget in the client side.
 
-In order to test Janus component change you can to pack
+In order to test Janus component change you can to pack, you frontend file and paste it to migrated app.
+
+Please open a command line and go to follow folder WFNetJanus\frontend\JanusComponents
+
+> cmd : cd WFNetJanus\frontend\JanusComponents>
+> cmd: npm pack
+
+A tgz file should be created.
+
+![Feature](https://github.com/lvegat1979/WorkHelp/blob/master/tz.PNG)
+
+After that please unzip and copy it in your migrated app nutget folder.
+
+![Feature](https://github.com/lvegat1979/WorkHelp/blob/master/mobilizenutget.PNG)
 
 
 ### How to get a Model in running
