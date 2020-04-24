@@ -99,7 +99,7 @@ In order to test Janus component changes, please packing Janus Component,paste i
 Please open a command line and go to follow folder WFNetJanus\frontend\JanusComponents
 
 > cmd : cd WFNetJanus\frontend\JanusComponents>
-> cmd: npm pack
+ cmd: npm pack
 
 A tgz file should be created.
 
