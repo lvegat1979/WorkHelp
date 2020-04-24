@@ -21,7 +21,12 @@ Please run the follow command in any console for configuration.
  - cmd -> .\RestorePackages.cmd 	
  - cmd -> .\build
 
-**WFNetConversionTool Configuration** 
+## WFNetConversionTool Configuration
+
+### Download buils from WebMap Conversion Tool
+
+	\\BUILDARTIFACTORY\WebMAPWinforms\Product\Mobilize.WFNetConversionTool
+	
 Please run the following commands in any console. In case that you want to run locally the migration tool.
 
     Please open Powershell as adminstrator
@@ -79,11 +84,6 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 ### How to get a Model in running
 
 	ng.probe($0).componentInstance.model
-
-
-### Download buils from WebMap Conversion Tool
-
-	\\BUILDARTIFACTORY\WebMAPWinforms\Product\Mobilize.WFNetConversionTool
 
 
 ## References Documentation
