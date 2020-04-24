@@ -44,7 +44,7 @@ Please run the following commands in any console. In case that you want to run l
 [Frontend](https://github.com/lvegat1979/WorkHelp/blob/master/WorkHelp.md) This video talk about Frontend.
 
 ## Checking Builds
-In order to check if the build was successfulll, please go here and  look up for you  build.
+	In order to check if the build was successfulll, please go here and  look up for you  build.
 
 [Builds](https://collaboration.artinsoft.com/tfs/Product/Product/_build?definitionId=1199) All builds of all components are created for alphas and stantards builds.
 
@@ -65,24 +65,24 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 
 ### Any Migrated App (FrontEnd)
 
-If you are on Janus Component. Please go to Angular Folder run the following commands where the json file are.
+	If you are on Janus Component. Please go to Angular Folder run the following commands where the json file are.
 
- - cmd -> .\yarn.cmd install
- - cmd -> ng build
- - cmd -> ng serve -o
+	 - cmd -> .\yarn.cmd install
+	 - cmd -> ng build
+	 - cmd -> ng serve -o
 
-> Tip: There are a nice command to remove files easy and faster in order to delete node_modules and yarn lock is a rimraf. To install it please execute the next command npm rimraf install -g
- - cmd -> rimraf.cmd .\node_modules\
- - cmd -> rimraf.cmd .\yarn.lock
+	> Tip: There are a nice command to remove files easy and faster in order to delete node_modules and yarn lock is a rimraf. To install it please execute the next command npm rimraf install -g
+	 - cmd -> rimraf.cmd .\node_modules\
+	 - cmd -> rimraf.cmd .\yarn.lock
 
 ### How to get a Model in running
 
-ng.probe($0).componentInstance.model
+	ng.probe($0).componentInstance.model
 
 
 ### Download buils from WebMap Conversion Tool
 
-\\BUILDARTIFACTORY\WebMAPWinforms\Product\Mobilize.WFNetConversionTool
+	\\BUILDARTIFACTORY\WebMAPWinforms\Product\Mobilize.WFNetConversionTool
 
 
 ## References Documentation
