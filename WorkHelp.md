@@ -94,7 +94,7 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 
 ### How to packages a nutget in the client side.
 
-In order to test Janus component change you can to pack, you frontend file and paste it to migrated app.
+In order to test Janus component changes, please packing Janus Component,paste it to migrated app.
 
 Please open a command line and go to follow folder WFNetJanus\frontend\JanusComponents
 
@@ -105,7 +105,7 @@ A tgz file should be created.
 
 ![Feature](https://github.com/lvegat1979/WorkHelp/blob/master/tz.PNG)
 
-After that please unzip and copy it in your migrated app nutget folder.
+After that please unzip and copy it in your migrated app nutget folder, then content should be copied in jns-winforms-commponents. Please keep node_modules folder.
 
 ![Feature](https://github.com/lvegat1979/WorkHelp/blob/master/mobilizenutget.PNG)
 
