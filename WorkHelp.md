@@ -40,7 +40,7 @@ Please run the following commands in any console. In case that you want to run l
 > Note: In case of any problems with running **build.cmd init** build.core issue, please open the folder ***\\ais-build-w7\BuildScriptUpdate*** and save login the credentials, cause some people is not inside the **mobilize network** just connected with the vpn, we need to store our credentials inside credetials manager.  Buiild core is store in this folder. Please run again the command.
 
 
-## Run Migration Tool
+## Running Migration Tool
 
 	cmd=> CmdRunner\release\net461\wfnetct.exe -i  "..\UICheckBox\UICheckBox.sln" -o "..\Example\UICheckBoxOut3" -l "..\Example\InternalWebMap.lic" -c "..\LGC\Example\webmap.config"
 
