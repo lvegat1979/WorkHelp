@@ -104,7 +104,7 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 
 ### How to packages a nutget in the client side.
 
-In order to test Janus component changes, please packing Janus Component,paste it to migrated app.
+In order to test Janus component changes, please packing Janus Component, paste it to migrated the app.
 
 Please open a command line and go to follow folder WFNetJanus\frontend\JanusComponents
 
