@@ -101,6 +101,13 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 	 - cmd -> rimraf.cmd .\node_modules\
 	 - cmd -> rimraf.cmd .\yarn.lock
 	 
+### Make a component template (FrontEnd)
+
+	In order to create a component please run the following command. In the path where the components are. **frontend\JanusComponents\projects\janus\src\lib\components**
+	
+> cmd -> ng g c ui-radio-button
+
+![Create a Componet](https://github.com/lvegat1979/WorkHelp/blob/master/createcomponent.PNG)
 
 ### How to packages a nutget in the client side.
 
