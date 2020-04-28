@@ -134,8 +134,7 @@ After that please unzip and copy it in your migrated app nutget folder, then con
 	ng.probe($0).componentInstance.model
 
 # Rules to send a PR DCP
-![Rules to send a PR DCP](https://collaboration.artinsoft.com/tfs/Product/Product/_wiki/wikis/WebMAP.wiki?wikiVersion=GBwikiMaster&pagePath=%2FAgile%20Mindset%2FDefinition%20of%20Done%20(DoD)%2FWFNet&pageId=46)
-
+[Rules to send a PR DCP](https://collaboration.artinsoft.com/tfs/Product/Product/_wiki/wikis/WebMAP.wiki?wikiVersion=GBwikiMaster&pagePath=%2FAgile%20Mindset%2FDefinition%20of%20Done%20(DoD)%2FWFNet&pageId=46)
 
 
 ## References Documentation
