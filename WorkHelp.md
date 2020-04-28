@@ -58,6 +58,8 @@ Please run the following commands in any console. In case that you want to run l
 
 [Frontend](https://github.com/lvegat1979/WorkHelp/blob/master/WorkHelp.md) This video talk about Frontend.
 
+[SDK and tailwind](https://1drv.ms/v/s!AjbyneS6s2dlgaYDj4vdcOQgW7dPxg?e=0mvuHB) This video talk about SDK and tailwind.
+
 ## Checking Builds
 	In order to check if the build was successfulll, please go here and  look up for you  build.
 
