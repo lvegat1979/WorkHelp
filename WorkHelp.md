@@ -56,7 +56,7 @@ Please run the following commands in any console. In case that you want to run l
 
 [Backend Part 2](https://1drv.ms/v/s!AjbyneS6s2dlgaYAGq77sq5dbRLdNg?e=cJHVf1) In this video, we are talking about DTO, Data Transfer Object, also Models and Mapers the mains important objects in the server side.
 
-[Frontend](https://github.com/lvegat1979/WorkHelp/blob/master/WorkHelp.md) This video talk about Frontend.
+[Frontend](https://1drv.ms/v/s!AjbyneS6s2dlgaYCs3dtoViEjHP_ng?e=zZCLot) This video talk about Frontend.
 
 [SDK and tailwind](https://1drv.ms/v/s!AjbyneS6s2dlgaYDj4vdcOQgW7dPxg?e=0mvuHB) This video talk about SDK and tailwind.
 
