@@ -102,7 +102,7 @@ If you are on Janus Component. Please go to Angular Folder run the following com
 
 	In case that the components are not rendering please go to this files. In the migrated app and add the following modules. Please see the image below.
 	
-	![Not render](https://github.com/lvegat1979/WorkHelp/blob/master/createcomponent.PNG)
+![Not render](https://github.com/lvegat1979/WorkHelp/blob/master/AddComponent.PNG)
 	 
 > Tip: There are a nice command to remove files easy and faster in order to delete node_modules and yarn lock is a rimraf. To install it please execute the next following npm install rimraf -g
 
